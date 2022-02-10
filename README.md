@@ -3,7 +3,7 @@
 <!-- [![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@_jessicalim)
 [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me) -->
 
-Welcome to my profile! I'm a computer science major graduating from Shiv Nadar University in May 2022, interning at @HewlettPackardEnterprises and love collaborating on research papers and competitions (Feel free to hit me up!) . Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/rishika-dwarak/)!
+Welcome to my profile! I'm a computer science major graduating from Shiv Nadar University in May 2022, interning at @HewlettPackardEnterprises and love collaborating on research papers and competitions (Feel free to hit me up!). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/rishika-dwarak/)!
 
 [![Twitter Badge](https://img.shields.io/badge/-@RishikaDwarak-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RishikaDwarak)](https://twitter.com/RishikaDwarak)
 [![Instagram Badge](https://img.shields.io/badge/-@rishika.dwarak-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rishika.dwarak/)](https://instagram.com/rishika.dwarak)
