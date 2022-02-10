@@ -6,7 +6,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-@rishika.dwarak-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rishika.dwarak/)](https://instagram.com/rishika.dwarak)
 [![Gmail Badge](https://img.shields.io/badge/-rishikatd-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rishikatd@gmail.com)](mailto:rishikatd@gmail.com)
 
-Welcome to my profile! I'm a student interning @HewlettPackardEnterprises, an aspiring data scientist, part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/rishika-dwarak/)!
+Welcome to my profile! I'm a computer science major graduating from Shiv Nadar University in May 2022, interning @HewlettPackardEnterprises and love collaborating on research papers and competitions. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/rishika-dwarak/)!
+
+<!-- I'm a student interning @HewlettPackardEnterprises, an aspiring data scientist, part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/rishika-dwarak/)! -->
 
 <!--
 **rishikadwarak/rishikadwarak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
